@@ -1,0 +1,1 @@
+Created a real-time age and gender prediction system using Convolutional Neural Networks (CNNs) trained on 20,000+ facial images. Applied data augmentation and image preprocessing techniques to improve model generalization, achieving high gender classification accuracy and reliable real-time age estimation performance.
